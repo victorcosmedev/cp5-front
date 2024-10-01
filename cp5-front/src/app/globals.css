@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .cabecalho{
+        @apply w-96 bg border-solid d-flex justify-center bg-black	;
+    }
+}
