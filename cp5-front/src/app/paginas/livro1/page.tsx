@@ -28,8 +28,7 @@ export default function Livro1() {
         .catch(error => {
             console.error('Error:', error);
         });
-    }, []); // Adicione um array vazio para executar apenas uma vez após a montagem do componente
-
+    }, []); 
     return (
         <div>
             <h1>Intervenção cósmica em eventos históricos</h1>
