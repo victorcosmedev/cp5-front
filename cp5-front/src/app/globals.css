@@ -4,6 +4,7 @@
 
 @layer components{
     .cabecalho{
-        @apply w-96 bg border-solid d-flex justify-center bg-black	;
+        /* @apply w-100; */
+
     }
 }
